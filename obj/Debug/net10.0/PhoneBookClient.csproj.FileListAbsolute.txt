@@ -1,0 +1,15 @@
+C:\MyDev\PhoneBookClient\obj\Debug\net10.0\PhoneBookClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDev\PhoneBookClient\obj\Debug\net10.0\PhoneBookClient.AssemblyInfoInputs.cache
+C:\MyDev\PhoneBookClient\obj\Debug\net10.0\PhoneBookClient.AssemblyInfo.cs
+C:\MyDev\PhoneBookClient\obj\Debug\net10.0\PhoneBookClient.csproj.CoreCompileInputs.cache
+C:\MyDev\PhoneBookClient\obj\Debug\net10.0\PhoneBookClient.sourcelink.json
+c:\MyDev\PhoneBookClient\bin\Debug\net10.0\PhoneBookClient.exe
+c:\MyDev\PhoneBookClient\bin\Debug\net10.0\PhoneBookClient.deps.json
+c:\MyDev\PhoneBookClient\bin\Debug\net10.0\PhoneBookClient.runtimeconfig.json
+c:\MyDev\PhoneBookClient\bin\Debug\net10.0\PhoneBookClient.dll
+c:\MyDev\PhoneBookClient\bin\Debug\net10.0\PhoneBookClient.pdb
+c:\MyDev\PhoneBookClient\obj\Debug\net10.0\PhoneBookClient.dll
+c:\MyDev\PhoneBookClient\obj\Debug\net10.0\refint\PhoneBookClient.dll
+c:\MyDev\PhoneBookClient\obj\Debug\net10.0\PhoneBookClient.pdb
+c:\MyDev\PhoneBookClient\obj\Debug\net10.0\PhoneBookClient.genruntimeconfig.cache
+c:\MyDev\PhoneBookClient\obj\Debug\net10.0\ref\PhoneBookClient.dll
